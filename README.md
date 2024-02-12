@@ -1,3 +1,4 @@
-# CSC7082-Databases-Project
+# CSC7082 Databases Project
 
-A project which involved building a MySQL database for a package holiday booking system.
+# Jet2holidays Booking System
+This project involved designing and building a MySQL database based on the Jet2holidays.com booking website.
