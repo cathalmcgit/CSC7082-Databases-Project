@@ -1,0 +1,12 @@
+0,Belfast to Barcelona,1,3
+0,Belfast to New York,1,5
+0,Belfast to Split,1,2
+0,Belfast to Mallorca,1,4
+0,Barcelona to Belfast,3,1
+0,Barcelona to Mallorca,3,4
+0,Split to Belfast,2,1
+0,Split to New York,2,5
+0,Mallorca to Barcelona,4,3
+0,Mallorca to Belfast,4,1
+0,New York to Belfast,5,1
+0,New York to Split,5,2
